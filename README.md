@@ -65,7 +65,8 @@
 Для работы Telegram-бота и клиента в реальном времени необходимо установить следующие пакеты:
 
 ```bash
-pip install python-telegram-bot telethon
+pip install nest_asyncio matplotlib aiosqlite numpy scikit-learn python-telegram-bot statsmodels telethon
+
 ```
 ![image](https://github.com/user-attachments/assets/0434a5c5-c5af-4272-afe6-85fb6e37e2e0)
 
