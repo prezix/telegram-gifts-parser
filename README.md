@@ -21,3 +21,5 @@ snifer.py – требует telegram-аккаунт для сбора данн�
 ![image](https://github.com/user-attachments/assets/c6148569-e5cf-4f8c-8467-3f0449e8c0f1)
 
 ![image](https://github.com/user-attachments/assets/d979a1b7-814f-447d-80b4-162a6c2e5a5b)
+
+![image](https://github.com/user-attachments/assets/b6134b50-726f-453a-9897-995951e13842)
