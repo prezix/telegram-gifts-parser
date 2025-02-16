@@ -66,7 +66,7 @@
 
 ```bash
 pip install python-telegram-bot telethon
-
+```
 ![image](https://github.com/user-attachments/assets/0434a5c5-c5af-4272-afe6-85fb6e37e2e0)
 
 ![image](https://github.com/user-attachments/assets/d979a1b7-814f-447d-80b4-162a6c2e5a5b)
